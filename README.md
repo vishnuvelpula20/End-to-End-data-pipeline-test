@@ -3,11 +3,7 @@
 Architecture
 This is what our data pipeline architecture looks like.
 
-Architecture
-
-For our local setup, we will use
-
+Steps:
 Open source sftp server
 Moto server to mock S3 and Lambda
 Postgres as a substitute for AWS Redshift
-Local Architecture
